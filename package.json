@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node app.js",
-    "user":"node user\\user_app.js"
+    "user":"node user\\user_app.js",
+    "start:student":"node student/student_app.js"
   },
   "repository": {
     "type": "git",
